@@ -1,0 +1,6 @@
+***
+* ? Request lifecycle architectural concepts:
+
+* TODO:Service Container
+* TODO:Service Provider
+* TODO:Facades
